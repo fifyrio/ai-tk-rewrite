@@ -54,3 +54,5 @@ node video-analyzer.js ./video.mp4 ./audio.mp3
 - form-data: 表单数据处理
 - sharp: 图片处理
 - fluent-ffmpeg: 视频处理
+
+https://www.youtube.com/watch?v=EdEn3aWHpO8

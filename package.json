@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "transcript": "node video-analyzer.js",
-    "transcript-test": "node video-analyzer.js --test"
+    "transcript-test": "node video-analyzer.js --test",
+    "rewrite": "node video-analyzer.js --rewrite"
   },
   "repository": {
     "type": "git",
